@@ -1,0 +1,1 @@
+# PhingersComponent-podspec
