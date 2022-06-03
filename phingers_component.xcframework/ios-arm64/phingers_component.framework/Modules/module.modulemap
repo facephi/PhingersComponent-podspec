@@ -1,0 +1,4 @@
+framework module phingers_component {
+  header "phingers_component-Swift.h"
+  requires objc
+}
