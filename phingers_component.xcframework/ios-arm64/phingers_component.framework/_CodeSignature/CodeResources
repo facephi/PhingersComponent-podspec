@@ -10,15 +10,15 @@
 		</data>
 		<key>Frameworks/TensorFlowLiteC.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		X+VK+4gWsITIFC+obD3sLnNyS7w=
+		2/BpSuFWnrqjnQWBZka7U8T4B/g=
 		</data>
 		<key>Frameworks/TensorFlowLiteC.framework/_CodeSignature/CodeRequirements</key>
 		<data>
-		DeRuCuD9M0yG/Eb79+ZX53DoWG4=
+		//fUuznWz2f6DkwLvsXdXx+3HVY=
 		</data>
 		<key>Frameworks/TensorFlowLiteC.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		EXoBZ87D5UCaC+waMpdsdNBPj0U=
+		arOZMeIu7XqHbLEN4Y6vV4DiOUw=
 		</data>
 		<key>Frameworks/TensorFlowLiteC.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -26,15 +26,15 @@
 		</data>
 		<key>Frameworks/TensorFlowLiteC.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		th2hJxzLFm4khVpie6cw3qtxQ6M=
+		Yv2K79E0bODizuJUmxg0BSE1NFo=
 		</data>
 		<key>Headers/phingers_component-Swift.h</key>
 		<data>
-		f6yJfdOrdsIFvJzkY2elUSm7KeY=
+		iUAwSX+jKQg0TjNYxl2NBAaR92k=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Kx9WSHdh1unjhRAcvIolbvRxohU=
+		AMqOcEFsd6itEwtr1Pmfuou1mok=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -42,27 +42,15 @@
 		</data>
 		<key>Modules/phingers_component.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		c8B3b0q4hnl8C9FCkYZhfjSadcA=
+		/QYLKtycg03+xB05C0PyUlSyZJQ=
 		</data>
 		<key>Modules/phingers_component.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		lwx1gF0nsOiSIeyeEl7etNt63lM=
+		XBnukrxxIym1boXoUF+3Xky3p4Q=
 		</data>
 		<key>Modules/phingers_component.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		N9Vjjtl+A3Gpp6tT5WqhzSW9HZ4=
-		</data>
-		<key>Modules/phingers_component.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		c8B3b0q4hnl8C9FCkYZhfjSadcA=
-		</data>
-		<key>Modules/phingers_component.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		lwx1gF0nsOiSIeyeEl7etNt63lM=
-		</data>
-		<key>Modules/phingers_component.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		N9Vjjtl+A3Gpp6tT5WqhzSW9HZ4=
+		egswI4bt5JBCEJTZu4la0hUfwTw=
 		</data>
 		<key>OnyxCamera.bundle/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib</key>
 		<dict>
@@ -111,7 +99,7 @@
 		</dict>
 		<key>OnyxCamera.bundle/Info.plist</key>
 		<data>
-		ystZ9CEWz0ak4qb2MJu4hOufNek=
+		9WhD9Rg/oOYmwYAjPIDmfrOnX6w=
 		</data>
 		<key>OnyxCamera.bundle/capture_unet_class_map.json</key>
 		<data>
@@ -183,21 +171,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dmTSP0BlArtJT33HYlSSogd0ltLTPrWZFScWUrYVDn0=
+			3MipHE3czYXQiqKT+g76n8TOq2yni78+lixZGwNBJRk=
 			</data>
 		</dict>
 		<key>Frameworks/TensorFlowLiteC.framework/_CodeSignature/CodeRequirements</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tODfMEEOkAaJ1nUC1nojRjflOPRUak4KO39dwHtu9Ak=
+			g4NPjKmIXjU4ujLrmtYxjPjRjRh8ST7IU7OYTCimlFM=
 			</data>
 		</dict>
 		<key>Frameworks/TensorFlowLiteC.framework/_CodeSignature/CodeRequirements-1</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nQwD42HBSUe5vx8sFnl3f1+bISCJfjoSl0a9lpNh+90=
+			4F7FGumxSnWiErp4/AuTn3hJ1b5GJ31qnP1ywfuV+Hk=
 			</data>
 		</dict>
 		<key>Frameworks/TensorFlowLiteC.framework/_CodeSignature/CodeResources</key>
@@ -211,14 +199,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kn50BjvmCmiff+5nJEPu2v29rXAcHakJfdrYpeJcn1E=
+			8U3l0Nh5B0+rZip36N/2PBGhs3RDDA8v4WusMyEI2Lg=
 			</data>
 		</dict>
 		<key>Headers/phingers_component-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eiqDqy1K5bmexKcYpekufO1PpV4WeWodJBC1Aq7qRW0=
+			5PvIW7f9vX1KxQE0o5z2zpIH05ApMmV/Ksym+d7ZR3I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -232,42 +220,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nAjxcI0nIVELS50gtlw92rpq7Jd/jSj7bA6Z7cPuykg=
+			jtalrz8VYuTnhns+6keH0t+O4F042IULeudtSNhULg0=
 			</data>
 		</dict>
 		<key>Modules/phingers_component.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ujo2DOX/Zf74aYSJJyuyadDDzByWl07dP3bHKIOzC4M=
+			A+vI88ISPxRpeQZnnw2CtMhT1JhzXhvYY6VbBJ0Qe7Y=
 			</data>
 		</dict>
 		<key>Modules/phingers_component.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bj9dh6reYFJd8pd1sRm0Eo+nHqnPd4YbUo/ix7ASiSA=
-			</data>
-		</dict>
-		<key>Modules/phingers_component.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			nAjxcI0nIVELS50gtlw92rpq7Jd/jSj7bA6Z7cPuykg=
-			</data>
-		</dict>
-		<key>Modules/phingers_component.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ujo2DOX/Zf74aYSJJyuyadDDzByWl07dP3bHKIOzC4M=
-			</data>
-		</dict>
-		<key>Modules/phingers_component.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Bj9dh6reYFJd8pd1sRm0Eo+nHqnPd4YbUo/ix7ASiSA=
+			NHzN5Us0ZdaRStPDpPGXYSOksP23exmbwaknGMD4Azg=
 			</data>
 		</dict>
 		<key>OnyxCamera.bundle/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib</key>
@@ -319,7 +286,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			odJdmFD6z1jxHBr9NWkrDV5nXEbgXBsnzQ3Db7wzFkQ=
+			Yv5gxrI7mqEJMblMeAeEeX4oCXSdhJTLZTJ5RPLPd+0=
 			</data>
 		</dict>
 		<key>OnyxCamera.bundle/capture_unet_class_map.json</key>
