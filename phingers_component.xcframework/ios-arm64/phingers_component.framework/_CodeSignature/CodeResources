@@ -10,7 +10,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Kx9WSHdh1unjhRAcvIolbvRxohU=
+		+L5arPJbjjd3Enb01vSKvHkPMQs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -18,27 +18,27 @@
 		</data>
 		<key>Modules/phingers_component.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		c8B3b0q4hnl8C9FCkYZhfjSadcA=
+		qyOE1Xwv7ifjsxuhf/2Au4cMYhg=
 		</data>
 		<key>Modules/phingers_component.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		JaW9iqYWAwebbFDfoKJwg8SE5aQ=
+		KtPDHk5yDVT8VW1cb6IrIu36W34=
 		</data>
 		<key>Modules/phingers_component.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		e5q5moVEx9PPEHgveLI9bwLrb2I=
+		u9t0Csrms7aHE1o1kZ1SVQp5Vz8=
 		</data>
 		<key>Modules/phingers_component.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		c8B3b0q4hnl8C9FCkYZhfjSadcA=
+		qyOE1Xwv7ifjsxuhf/2Au4cMYhg=
 		</data>
 		<key>Modules/phingers_component.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		JaW9iqYWAwebbFDfoKJwg8SE5aQ=
+		KtPDHk5yDVT8VW1cb6IrIu36W34=
 		</data>
 		<key>Modules/phingers_component.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		e5q5moVEx9PPEHgveLI9bwLrb2I=
+		u9t0Csrms7aHE1o1kZ1SVQp5Vz8=
 		</data>
 		<key>OnyxCamera.bundle/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib</key>
 		<dict>
@@ -166,42 +166,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nAjxcI0nIVELS50gtlw92rpq7Jd/jSj7bA6Z7cPuykg=
+			LuU7rGDyNXocGAKJ1GHWei7SgBg6u4GDxdO/DMuPt7g=
 			</data>
 		</dict>
 		<key>Modules/phingers_component.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zxu2EIUCylpbbQR18oZA5NCOMBYmAqejaKaa5GuXaxo=
+			V24mUeDfST5IRKGMhQHwBhoGXEyhla8CvkAoo8BLtRg=
 			</data>
 		</dict>
 		<key>Modules/phingers_component.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pJAClHpbf3I/a6nNG/+Yr0EMWnhfmKhKtZdc9pdspcQ=
+			m0dXD4gPecpuHI4Guqb7nAhynMw7TvnkBDIJ8V0HsLc=
 			</data>
 		</dict>
 		<key>Modules/phingers_component.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nAjxcI0nIVELS50gtlw92rpq7Jd/jSj7bA6Z7cPuykg=
+			LuU7rGDyNXocGAKJ1GHWei7SgBg6u4GDxdO/DMuPt7g=
 			</data>
 		</dict>
 		<key>Modules/phingers_component.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zxu2EIUCylpbbQR18oZA5NCOMBYmAqejaKaa5GuXaxo=
+			V24mUeDfST5IRKGMhQHwBhoGXEyhla8CvkAoo8BLtRg=
 			</data>
 		</dict>
 		<key>Modules/phingers_component.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pJAClHpbf3I/a6nNG/+Yr0EMWnhfmKhKtZdc9pdspcQ=
+			m0dXD4gPecpuHI4Guqb7nAhynMw7TvnkBDIJ8V0HsLc=
 			</data>
 		</dict>
 		<key>OnyxCamera.bundle/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib</key>
