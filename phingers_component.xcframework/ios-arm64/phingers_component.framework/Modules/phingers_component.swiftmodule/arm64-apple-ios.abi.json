@@ -1,0 +1,497 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "core",
+        "printedName": "core",
+        "declKind": "Import",
+        "moduleName": "phingers_component",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "phingers_component"
+      },
+      {
+        "kind": "Import",
+        "name": "FPhiPhingersWidgetiOS",
+        "printedName": "FPhiPhingersWidgetiOS",
+        "declKind": "Import",
+        "moduleName": "phingers_component"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "phingers_component"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "phingers_component",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "core",
+        "printedName": "core",
+        "declKind": "Import",
+        "moduleName": "phingers_component"
+      },
+      {
+        "kind": "Import",
+        "name": "FPhiPhingersWidgetiOS",
+        "printedName": "FPhiPhingersWidgetiOS",
+        "declKind": "Import",
+        "moduleName": "phingers_component"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PhingersController",
+        "printedName": "PhingersController",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "output",
+            "printedName": "output",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "((core.SdkResult<core.PhingersResult>) -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(core.SdkResult<core.PhingersResult>) -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SdkResult",
+                        "printedName": "core.SdkResult<core.PhingersResult>",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "PhingersResult",
+                            "printedName": "core.PhingersResult",
+                            "usr": "s:4core14PhingersResultV"
+                          }
+                        ],
+                        "usr": "s:4core9SdkResultC"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18phingers_component18PhingersControllerC6outputy4core9SdkResultCyAE0cH0VGcSgvp",
+            "mangledName": "$s18phingers_component18PhingersControllerC6outputy4core9SdkResultCyAE0cH0VGcSgvp",
+            "moduleName": "phingers_component",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "((core.SdkResult<core.PhingersResult>) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(core.SdkResult<core.PhingersResult>) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "SdkResult",
+                            "printedName": "core.SdkResult<core.PhingersResult>",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "PhingersResult",
+                                "printedName": "core.PhingersResult",
+                                "usr": "s:4core14PhingersResultV"
+                              }
+                            ],
+                            "usr": "s:4core9SdkResultC"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18phingers_component18PhingersControllerC6outputy4core9SdkResultCyAE0cH0VGcSgvg",
+                "mangledName": "$s18phingers_component18PhingersControllerC6outputy4core9SdkResultCyAE0cH0VGcSgvg",
+                "moduleName": "phingers_component",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "((core.SdkResult<core.PhingersResult>) -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(core.SdkResult<core.PhingersResult>) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "SdkResult",
+                            "printedName": "core.SdkResult<core.PhingersResult>",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "PhingersResult",
+                                "printedName": "core.PhingersResult",
+                                "usr": "s:4core14PhingersResultV"
+                              }
+                            ],
+                            "usr": "s:4core9SdkResultC"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18phingers_component18PhingersControllerC6outputy4core9SdkResultCyAE0cH0VGcSgvs",
+                "mangledName": "$s18phingers_component18PhingersControllerC6outputy4core9SdkResultCyAE0cH0VGcSgvs",
+                "moduleName": "phingers_component",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18phingers_component18PhingersControllerC6outputy4core9SdkResultCyAE0cH0VGcSgvM",
+                "mangledName": "$s18phingers_component18PhingersControllerC6outputy4core9SdkResultCyAE0cH0VGcSgvM",
+                "moduleName": "phingers_component",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(viewController:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PhingersController",
+                "printedName": "phingers_component.PhingersController",
+                "usr": "s:18phingers_component18PhingersControllerC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:18phingers_component18PhingersControllerC04viewD0ACSo06UIViewD0C_tcfc",
+            "mangledName": "$s18phingers_component18PhingersControllerC04viewD0ACSo06UIViewD0C_tcfc",
+            "moduleName": "phingers_component",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "start",
+            "printedName": "start()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18phingers_component18PhingersControllerC5startyyF",
+            "mangledName": "$s18phingers_component18PhingersControllerC5startyyF",
+            "moduleName": "phingers_component",
+            "overriding": true,
+            "declAttributes": [
+              "AccessControl",
+              "Override",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setup",
+            "printedName": "setup(data:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "PhingersConfigurationData",
+                "printedName": "core.PhingersConfigurationData",
+                "usr": "s:4core25PhingersConfigurationDataV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18phingers_component18PhingersControllerC5setup4datay4core0C17ConfigurationDataV_tF",
+            "mangledName": "$s18phingers_component18PhingersControllerC5setup4datay4core0C17ConfigurationDataV_tF",
+            "moduleName": "phingers_component",
+            "overriding": true,
+            "declAttributes": [
+              "AccessControl",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PhingersController",
+                "printedName": "phingers_component.PhingersController",
+                "usr": "s:18phingers_component18PhingersControllerC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:18phingers_component18PhingersControllerCACycfc",
+            "mangledName": "$s18phingers_component18PhingersControllerCACycfc",
+            "moduleName": "phingers_component",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "fingersCaptureSuccess",
+            "printedName": "fingersCaptureSuccess()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18phingers_component18PhingersControllerC21fingersCaptureSuccessyyF",
+            "mangledName": "$s18phingers_component18PhingersControllerC21fingersCaptureSuccessyyF",
+            "moduleName": "phingers_component",
+            "objc_name": "fingersCaptureSuccess",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "fingersCaptureError",
+            "printedName": "fingersCaptureError()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18phingers_component18PhingersControllerC19fingersCaptureErroryyF",
+            "mangledName": "$s18phingers_component18PhingersControllerC19fingersCaptureErroryyF",
+            "moduleName": "phingers_component",
+            "objc_name": "fingersCaptureError",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:18phingers_component18PhingersControllerC",
+        "mangledName": "$s18phingers_component18PhingersControllerC",
+        "moduleName": "phingers_component",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "superclassUsr": "s:4core17IWidgetControllerC",
+        "superclassNames": [
+          "core.IWidgetController<core.PhingersConfigurationData>",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "IPhingersController",
+            "printedName": "IPhingersController",
+            "usr": "s:4core19IPhingersControllerP",
+            "mangledName": "$s4core19IPhingersControllerP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "IWidgetControllerProtocol",
+            "printedName": "IWidgetControllerProtocol",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "T",
+                "printedName": "T",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PhingersConfigurationData",
+                    "printedName": "core.PhingersConfigurationData",
+                    "usr": "s:4core25PhingersConfigurationDataV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:4core25IWidgetControllerProtocolP",
+            "mangledName": "$s4core25IWidgetControllerProtocolP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/joseantoniojuan\/repos\/sdk-ios\/phingers_component\/phingers_component\/sources\/PhingersController.swift",
+      "kind": "StringLiteral",
+      "offset": 180,
+      "length": 18,
+      "value": "\"phingers_component.PhingersController\""
+    }
+  ]
+}

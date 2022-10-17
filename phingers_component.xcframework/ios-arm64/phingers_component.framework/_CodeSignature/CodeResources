@@ -6,39 +6,35 @@
 	<dict>
 		<key>Headers/phingers_component-Swift.h</key>
 		<data>
-		f6yJfdOrdsIFvJzkY2elUSm7KeY=
+		T/wFpeKeYYpib/lzUuEqJh+z4uE=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+L5arPJbjjd3Enb01vSKvHkPMQs=
+		9miduHN9NOG45QBxCFIE0H6hOPc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		HcKask0nDLnOe8/eE0GtwMfJqxU=
 		</data>
+		<key>Modules/phingers_component.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		Q1t1Phec2hVhbX99fUiUR7gy+ak=
+		</data>
+		<key>Modules/phingers_component.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		KW1nrHVmtmQ/u+qe8+qLJ6DXeA0=
+		</data>
 		<key>Modules/phingers_component.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		qyOE1Xwv7ifjsxuhf/2Au4cMYhg=
+		m0HOikVkt6fSU7cwmSU6ez3qoBs=
 		</data>
 		<key>Modules/phingers_component.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		KtPDHk5yDVT8VW1cb6IrIu36W34=
+		KW1nrHVmtmQ/u+qe8+qLJ6DXeA0=
 		</data>
 		<key>Modules/phingers_component.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		u9t0Csrms7aHE1o1kZ1SVQp5Vz8=
-		</data>
-		<key>Modules/phingers_component.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		qyOE1Xwv7ifjsxuhf/2Au4cMYhg=
-		</data>
-		<key>Modules/phingers_component.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		KtPDHk5yDVT8VW1cb6IrIu36W34=
-		</data>
-		<key>Modules/phingers_component.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		u9t0Csrms7aHE1o1kZ1SVQp5Vz8=
+		FsDTcuGSBQ3PL+qs9G1S8rZycG0=
 		</data>
 		<key>OnyxCamera.bundle/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib</key>
 		<dict>
@@ -87,7 +83,27 @@
 		</dict>
 		<key>OnyxCamera.bundle/Info.plist</key>
 		<data>
-		ystZ9CEWz0ak4qb2MJu4hOufNek=
+		dta2bz4cNFTBlxRahLIGVC4ixUs=
+		</data>
+		<key>OnyxCamera.bundle/_CodeSignature/CodeDirectory</key>
+		<data>
+		Yul4M1D+wM3umgf88fo9K7f5V+o=
+		</data>
+		<key>OnyxCamera.bundle/_CodeSignature/CodeRequirements</key>
+		<data>
+		V2I1RooAWfl1a+KINC6Ce3KzqNA=
+		</data>
+		<key>OnyxCamera.bundle/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		7g5yAQgcK7B7RU0HMuOXk9fGWDA=
+		</data>
+		<key>OnyxCamera.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		uxx839D55/eOVsgVaVUCd2jDoII=
+		</data>
+		<key>OnyxCamera.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		WZ3ot1OCJRdWV/jEYECuHkVVsQk=
 		</data>
 		<key>OnyxCamera.bundle/capture_unet_class_map.json</key>
 		<data>
@@ -152,7 +168,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eiqDqy1K5bmexKcYpekufO1PpV4WeWodJBC1Aq7qRW0=
+			1nQYj4MT6x4tkyT8pyKzWHGSyfNB+ndB/GIgrW7XwHI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -162,46 +178,39 @@
 			jhs0OT392XolI8lpQeOMzvnAi1lSu+/8o5s/m6LJcx4=
 			</data>
 		</dict>
+		<key>Modules/phingers_component.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DjAzq2X+t1qlI2bg8gpCOiqYkvusNnuoz/mO3jey80E=
+			</data>
+		</dict>
+		<key>Modules/phingers_component.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PcehiR8ro9A7Twwkg7tjPmvkMMY5rCUF0tnTseOt+Ew=
+			</data>
+		</dict>
 		<key>Modules/phingers_component.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LuU7rGDyNXocGAKJ1GHWei7SgBg6u4GDxdO/DMuPt7g=
+			cgYTTbi5CexBt9bBbIu59c0nVQxRQ1/SpLvlsS3g59c=
 			</data>
 		</dict>
 		<key>Modules/phingers_component.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V24mUeDfST5IRKGMhQHwBhoGXEyhla8CvkAoo8BLtRg=
+			PcehiR8ro9A7Twwkg7tjPmvkMMY5rCUF0tnTseOt+Ew=
 			</data>
 		</dict>
 		<key>Modules/phingers_component.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			m0dXD4gPecpuHI4Guqb7nAhynMw7TvnkBDIJ8V0HsLc=
-			</data>
-		</dict>
-		<key>Modules/phingers_component.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LuU7rGDyNXocGAKJ1GHWei7SgBg6u4GDxdO/DMuPt7g=
-			</data>
-		</dict>
-		<key>Modules/phingers_component.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			V24mUeDfST5IRKGMhQHwBhoGXEyhla8CvkAoo8BLtRg=
-			</data>
-		</dict>
-		<key>Modules/phingers_component.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			m0dXD4gPecpuHI4Guqb7nAhynMw7TvnkBDIJ8V0HsLc=
+			Iol44kLxG3BDspY1nSOW6h9ecZjYoUi2w17PuWhojjw=
 			</data>
 		</dict>
 		<key>OnyxCamera.bundle/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib</key>
@@ -253,7 +262,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			odJdmFD6z1jxHBr9NWkrDV5nXEbgXBsnzQ3Db7wzFkQ=
+			LnoGs7KL6q2CGAC5GlQHxXuxfMOgCN75IGG00NoD0tM=
+			</data>
+		</dict>
+		<key>OnyxCamera.bundle/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6Huhetr7TUO5TPIYI8WYZYAqHYpDbyDDio9oMJcoYA4=
+			</data>
+		</dict>
+		<key>OnyxCamera.bundle/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D46yCrhmbAd5M7g11GeekhtBOVFhT7n6QyY85OEoVzg=
+			</data>
+		</dict>
+		<key>OnyxCamera.bundle/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IAwk5x2Sepio7tQEw50zs+Q67yARLHVfxA2cMnVg47Y=
+			</data>
+		</dict>
+		<key>OnyxCamera.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xzUpBBBLvlu06Wy4RHeaqTuPG/ixrOPFuA7It0kjJUA=
+			</data>
+		</dict>
+		<key>OnyxCamera.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			A4rXikKb/oCm4ue/Ic9SQiZY4vvVen36KEXHMw2rorI=
 			</data>
 		</dict>
 		<key>OnyxCamera.bundle/capture_unet_class_map.json</key>
